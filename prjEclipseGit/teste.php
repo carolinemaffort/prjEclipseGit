@@ -1,3 +1,4 @@
 <?php
-echo "olá, teste!";
+echo "olÃ¡, teste!";
+echo "deu certo, teste!";
 ?>
